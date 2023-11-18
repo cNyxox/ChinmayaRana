@@ -6,6 +6,10 @@
 
 
 <h1 align="center"><b>Hi , I'm cNyx </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<br>
+<p align="center">
+<picture> <img src="https://media2.giphy.com/media/W08unXM3MSuAPbDJMJ/giphy.gif"></picture>
+</p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Cybersecurity+Student,;Bug+Bounty+Hunter,;Content+Writer,;Active+Learner/Researcher..<3"></a>
@@ -15,12 +19,11 @@
 
 ## <picture><img src = "https://github.com/cNyx/cNyx/blob/main/Assets/about_me.gif" width = 50px></picture> **About me**
 <picture> <img align="right" src="https://media.giphy.com/media/HW3T1wWW3z2Ff2cpXO/giphy.gif"></picture>
-
 <br>
 
 
 
-- 👋 Hi, I’m @cNyx
+- 👋 Hi, I’m @cNyx 
 - 👀 I’m a CyberSecurity Enthusiast.
 - 🌱 I’m currently learning with Google.
 - 💞️ I’m looking to collaborate with Bugbounty projects.
