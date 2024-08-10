@@ -24,7 +24,7 @@
 
 
 
-- 👋 Hi, I’m @cNyx 
+- 👋 Hi, I’m @Chinmaya Rana 
 - 👀 I’m a CyberSecurity Enthusiast.
 - 🌱 I’m currently learning with Google.
 - 💞️ I’m looking to collaborate with Bugbounty projects.
