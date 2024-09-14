@@ -24,7 +24,7 @@
 
 
 
-- 👀 I’m a dedicated Security Researcher.
+- 👨‍💻  I’m a dedicated Security Researcher.
 - 🌱 I’m currently learning with Google.
 - 💞️ I’m looking to collaborate with Bugbounty projects.
 - Feel free to connect with me on Linkedin.
