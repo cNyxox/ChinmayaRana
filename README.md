@@ -1,11 +1,10 @@
-<h1 align="Center">
-    <br>
-    Welcome to My Github Profile 
-  <br>
+<h1 align="center">
+    <b>Hi , 
+        I'm Chinmaya Rana 
+    </b>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
-<meta name="google-site-verification" content="vCVSW9m2bNuocEADql1wfu3a261dz4WWHh-jJdUDfms" />
 
-<h1 align="center"><b>Hi , I'm Chinmaya Rana </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
 <p align="center">
 <picture> <img src="https://media2.giphy.com/media/W08unXM3MSuAPbDJMJ/giphy.gif"></picture>
