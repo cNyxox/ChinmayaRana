@@ -5,7 +5,7 @@
 </h1>
 
 
-<h1 align="center"><b>Hi , I'm cNyx </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Chinmaya Rana </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
 <p align="center">
 <picture> <img src="https://media2.giphy.com/media/W08unXM3MSuAPbDJMJ/giphy.gif"></picture>
@@ -24,8 +24,7 @@
 
 
 
-- 👋 Hi, I’m @Chinmaya Rana 
-- 👀 I’m a CyberSecurity Enthusiast.
+- 👀 I’m a dedicated Security Researcher.
 - 🌱 I’m currently learning with Google.
 - 💞️ I’m looking to collaborate with Bugbounty projects.
 - Feel free to connect with me on Linkedin.
