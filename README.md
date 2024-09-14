@@ -3,8 +3,7 @@
     Welcome to My Github Profile 
   <br>
 </h1>
-<meta name="google-site-verification" content="vCVSW9m2bNuocEADql1wfu3a261dz4WWHh-jJdUDfms" />
-
+<meta name="google-site-verification" content="qVCMKgbbO3yG9gcgRR8fAtWtxU2rwocsncxOzIvUukQ" />
 <h1 align="center"><b>Hi , I'm Chinmaya Rana </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
 <p align="center">
